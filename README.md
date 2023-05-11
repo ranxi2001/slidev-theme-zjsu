@@ -36,11 +36,11 @@ This theme provides the following layouts:
 
 ### cover
 
-![cover](https://gitee.com/isaaccaa/pictures/raw/master/img2022/01.png)
+![cover](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/Snipaste_2023-05-11_15-19-19.jpg)
 
 ### default page
 
-![about](https://gitee.com/isaaccaa/pictures/raw/master/img2022/02.png)
+![about](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/Snipaste_2023-05-11_15-19-45.jpg)
 
 ### imagex
 
@@ -57,7 +57,7 @@ somgthing
 ---
 ```
 
-![image](https://gitee.com/isaaccaa/pictures/raw/master/img2022/03.png)
+![image](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/Snipaste_2023-05-11_15-19-57.jpg)
 
 ## Contributing
 
@@ -66,3 +66,9 @@ somgthing
 - Edit the `example.md` and style to see the changes
 - `npm run export` to generate the preview PDF
 - `npm run screenshot` to generate the preview PNG
+
+## Usage
+- 修改方法：用typora修改slides.md
+- 终端运行开始展示：`npx slidev`
+- 导出pdf： `npx slidev export`
+- 更多教程：[slidev环境使用教程](https://wzzju.github.io/slides/slidev/2022/03/20/make-slides/#:~:text=3.2%20%E5%8D%95%E7%8B%AC%E5%AF%BC%E5%87%BAPDF%E6%96%87%E4%BB%B6%201%20%E5%AE%89%E8%A3%85%20playwright-chromium%20%EF%BC%9A%202%20%E5%AF%BC%E5%87%BApdf%E6%A0%BC%E5%BC%8F%E5%B9%BB%E7%81%AF%E7%89%87%EF%BC%9A,%23%20slidev%20%3E%3D%20v0.21%20npx%20slidev%20export%20--with-clicks)

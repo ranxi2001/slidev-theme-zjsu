@@ -14,8 +14,8 @@ export default mergeWindicssConfig(
 			"border-image":
 				"border border-[#121212] border-opacity-10 shadow-md shadow-[#121212] dark:(border-purple-100 border-opacity-10 shadow-purple-100)",
 			cucr: "bg-[#cb3431]",
-			cucg: "bg-[#26923e]",
-			cucb: "bg-[#043d82]",
+			cucg: "bg-[#1b5797]",
+			cucb: "bg-[##1b5797]",
 		},
 		theme: {
 			extend: {

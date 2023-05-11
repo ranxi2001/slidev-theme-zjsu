@@ -28,7 +28,7 @@ To give it a Keynote-like appearance, I used the styles for headings and text in
 
 ---
 layout: imagex
-image: https://gitee.com/isaaccaa/pictures/raw/master/img2022/0186795d843896a8012060be1cbe75.jpg
+image: ./components/冰墩墩.jpg
 pos: center
 size: h-260px
 ---
@@ -56,7 +56,7 @@ The preceding page is represented by the flowing code.
 ```markdown
 ---
 layout: imagex
-image: https://gitee.com/isaaccaa/pictures/raw/master/img2022/0186795d843896a8012060be1cbe75.jpg
+image: ![](./components/冰墩墩.jpg)
 pos: center
 size: h-260px
 ---
@@ -64,8 +64,9 @@ size: h-260px
 
 ---
 layout: imagex
-image: https://gitee.com/isaaccaa/pictures/raw/master/img2022/0186795d843896a8012060be1cbe75.jpg
+image: ./components/冰墩墩.jpg
 pos: right
+
 size: h-260px mx-15px
 ---
 
@@ -78,7 +79,7 @@ size: h-260px mx-15px
 ```markdown
 ---
 layout: imagex
-image: https://gitee.com/isaaccaa/pictures/raw/master/img2022/0186795d843896a8012060be1cbe75.jpg
+image: ![](./components/冰墩墩.jpg)
 pos: right
 size: h-260px mx-15px
 ---
@@ -89,7 +90,7 @@ size: h-260px mx-15px
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
-  
+
 - 📝 **Text-based** - focus on the content with Markdown, and then style them later
 - 🎨 **Themable** - theme can be shared and used with npm packages
 - 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
