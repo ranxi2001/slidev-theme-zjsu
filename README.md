@@ -36,7 +36,7 @@ This theme provides the following layouts:
 
 ### cover
 
-![cover](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/Snipaste_2023-05-11_15-19-19.jpg)
+![cover](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/cover.jpg)
 
 ### default page
 

@@ -2,7 +2,7 @@
 theme: ./
 ---
 
-# Slidev Theme CUC
+# Slidev Theme ZJSU
 
 Presentation slides for developers
 
