@@ -25,7 +25,7 @@ A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
 Add the following frontmatter to your `slides.md`. Start Slidev then it will prompt you to install the theme automatically.
 
 <pre><code>---
-theme: <b>CUC</b>
+theme: <b>ZJSU</b>
 ---</code></pre>
 
 Learn more about [how to use a theme](https://sli.dev/themes/use).
@@ -68,6 +68,7 @@ somgthing
 - `npm run screenshot` to generate the preview PNG
 
 ## Usage
+- 安装方法：`npm init slidev`
 - 修改方法：用typora修改slides.md
 - 终端运行开始展示：`npx slidev`
 - 导出pdf： `npx slidev export`
