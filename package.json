@@ -18,7 +18,8 @@
     "theme-vitesse": "^0.1.14"
   },
   "devDependencies": {
-    "@slidev/cli": "^0.28.2"
+    "@slidev/cli": "^0.28.2",
+    "vite-plugin-remote-assets": "^0.3.2"
   },
   "engines": {
     "node": ">=14.0.0",

@@ -36,11 +36,11 @@ This theme provides the following layouts:
 
 ### cover
 
-![cover](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/cover.jpg)
+![cover](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/20230512211852.png)
 
 ### default page
 
-![about](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/Snipaste_2023-05-11_15-19-45.jpg)
+![about](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/20230512212056.png)
 
 ### imagex
 
@@ -57,7 +57,7 @@ somgthing
 ---
 ```
 
-![image](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/Snipaste_2023-05-11_15-19-57.jpg)
+![image](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/20230512212130.png)
 
 ## Contributing
 
