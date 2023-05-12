@@ -34,6 +34,8 @@ Learn more about [how to use a theme](https://sli.dev/themes/use).
 
 This theme provides the following layouts:
 
+效果展示：https://onefly.netlify.app/
+
 ### cover
 
 ![cover](https://cdn.jsdelivr.net/gh/ranxi2001/blog-imgs@main/img/20230512211852.png)
