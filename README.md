@@ -70,7 +70,7 @@ somgthing
 - `npm run screenshot` to generate the preview PNG
 
 ## Usage
-- 安装方法：`npm init slidev`
+- 安装方法：`npm init slidev`然后`npm install`
 - 修改方法：用typora修改slides.md
 - 终端运行开始展示：`npx slidev`
 - 导出pdf： `npx slidev export`
